@@ -459,8 +459,9 @@ h3.my-profession
     flex: 0 0 10%;
     height: 415px;
     width: 457px;
-
-    text-align: center;
+    margin-top: 3.3rem;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
     
     
     
@@ -970,7 +971,7 @@ margin-bottom: 30px;
 @media (max-width:440px){
     .btn,
     .Read{
-        margin-bottom: 15px;
+        margin-bottom:20px;
     }
 }
 
