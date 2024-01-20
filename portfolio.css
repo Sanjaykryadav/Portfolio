@@ -901,6 +901,9 @@ margin-bottom: 30px;
     {
         left: 0;
     }
+  .aside .foter.open{
+        left: 0;
+    } 
     
 
     .aside
@@ -962,6 +965,12 @@ margin-bottom: 30px;
 
         
 
+    }
+}
+@media (max-width:440px){
+    .btn,
+    .Read{
+        margin-bottom: 15px;
     }
 }
 
