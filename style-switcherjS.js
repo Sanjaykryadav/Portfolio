@@ -55,7 +55,8 @@ window.addEventListener("load",() => {
 var typed =new Typed(".typing",{
     strings:["","Web Designer","Web Developer","Forntend Developer","Programmer","CSE Student"],
     typeSpeed:100,
-    BackSpeed:60,
+    BackSpeed:100,
+    BackDelay:200,
     loop:true
 })
 
@@ -136,7 +137,8 @@ const nav =document.querySelector(".nav"),
         
       })
       const navTogglerBtn = document.querySelector(".nav-toggler"),
-            aside = document.querySelector(".aside");
+            aside = document.querySelector(".aside"),
+            foter= document.querySelector(".foter");
             navTogglerBtn.addEventListener("click",() =>
             {
                 asideSectionTogglerBtn();
@@ -144,7 +146,8 @@ const nav =document.querySelector(".nav"),
             })
             function asideSectionTogglerBtn()
             {
-                aside.classList.toggle("open");
+                aside.classList.toggle("open"),
+                foter.classList.toggle("open");
                 navTogglerBtn.classList.toggle("open");
                 for(let i=0; i<totalSection; i++)
                 {
