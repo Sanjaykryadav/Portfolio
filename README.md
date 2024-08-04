@@ -7,10 +7,10 @@
 
 # Key Features:
   
-  - ** Elegant Design: A modern, clean layout that highlights my projects and skills effectively.
-  - * Project Gallery: A detailed view of my key projects, complete with descriptions and links.
-  - * Responsive Layout: Optimized for all devices, ensuring a smooth experience on desktop, tablet, and mobile.
-  - * Contact Form: A simple way for visitors to get in touch with me directly.
+  - **Elegant Design: A modern, clean layout that highlights my projects and skills effectively.
+  - **Project Gallery: A detailed view of my key projects, complete with descriptions and links.
+  - **Responsive Layout: Optimized for all devices, ensuring a smooth experience on desktop, tablet, and mobile.
+  - **Contact Form: A simple way for visitors to get in touch with me directly.
 
 ## Technologies
 
